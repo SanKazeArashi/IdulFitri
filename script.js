@@ -44,12 +44,6 @@
 // makeItRain();
 
 new Typed('#typed',{
-        strings : ['Saya Habibullah dan keluarga Mengucapkan.'],
-        typeSpeed : 70,
-        delaySpeed : 70,
-        loop : true
-
-new Typed('#typed',{
         strings : ['Selamat Hari Raya Idul Fitri 1441 H. Mohon maaf lahir dan batin.'],
         typeSpeed : 70,
         delaySpeed : 70,
